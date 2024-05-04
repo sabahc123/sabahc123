@@ -2,8 +2,9 @@
 
 > Slow is smooth, smooth is fast
 
-![image of AI Architecture]
-(https://images.app.goo.gl/1bxsXZCwfdRbuXuc6)
+![2000x1125](https://github.com/sabahc123/sabahc123/assets/65038014/b2233e25-8f89-43cc-88ce-982227376cb7)
+
+
 
 ## About me
 
