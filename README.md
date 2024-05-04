@@ -1,6 +1,6 @@
 ### Sabah 
 
-> Slow is smooth, smooth is fast
+
 
 ![2000x1125](https://github.com/sabahc123/sabahc123/assets/65038014/b2233e25-8f89-43cc-88ce-982227376cb7)
 
@@ -15,6 +15,9 @@
 - 💬 Ask me about Property and the Short Term Rental Industry
 - 📫 How to reach me: sabah.choudhry@outlook.com or Linked In https://www.linkedin.com/in/sabah-choudhry/
 - ⚡ Fun fact: I am trilingual!
+
+
+> Slow is smooth, smooth is fast
 
 <!--
 **sabahc123/sabahc123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
